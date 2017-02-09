@@ -1,10 +1,10 @@
-### Brief Bio
+## Brief Bio
 Nan Li is a lead software engineer in test at [Medidata Solutions](http://www.mdsol.com). He is leading the research on [big data testing](http://techblog.mdsol.com/2015/05/15/generating-a-representative-data-set-from-big-data.html), model-based testing, mutation testing, test oracle, fault localization, mobile testing, and test automation. He is developing several big data, mobile, and other general-purpose testing tools. He is passionate about bridging the gap between academia and industry.
 
 Nan Li received PhD in Information Technology with concentration on software engineering from [Volgenau School of Engineering](volgenau.gmu.edu) at [George Mason University](http://www.gmu.edu) in 2014. His advisor was [Dr. Jeff Offutt](http://cs.gmu.edu/~offutt). He received a B.E. in Software Engineering from [Beihang University](http://www.buaa.edu.cn) in 2006. 
 
 
-### Projects at Medidata
+## Projects at Medidata
 #### Mobile Testing
 Developing a test framework in Ruby for testing iOS and Android apps, using [Appium](https://github.com/appium/appium). Working on Xcode 8, XCUITest, uiautomator2, and Appium now.
 
@@ -12,7 +12,7 @@ Developing a test framework in Ruby for testing iOS and Android apps, using [App
 Developed programs and tests using Amazon Web Services (AWS) techniques for reporting and analytics.
 Developed a test data generator that generates small yet effective test data sets from original big data.
 
-### Publications
+## Publications
 #### Big Data Testing
 + **Nan Li**, Yu Lei, Haider Khan, Jingshu Liu, and Yun Guo. Applying Combinatorial Test Data Generation to Big Data Applications. 31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016). Singapore, Singapore. September 2016. 
 
@@ -63,10 +63,10 @@ Developed a test data generator that generates small yet effective test data set
 #### Education on Software Testing 
 + Jeff Offutt, **Nan Li**, Paul Ammann and Wuzhi Xu. Using Abstraction and Web Applications to Teach Criteria-Based Test Design. 24th IEEE-CS Conference on Software Engineering Education and Training. Hawaii, USA. May 2011.
 
-### Invited Talks
+## Invited Talks
 [A Test Automation Language for Behavioral Models](https://developers.google.com/google-test-automation-conference/2014/presentations#Day1LightningTalk1). Google Test Automation Conference (GTAC). Kirkland, Washington, USA. October 2014.
 
-### Professional Services
+## Professional Services
 #### Organizers
 [MUTATION 2017](https://sites.google.com/site/mutation2017)
 
@@ -79,11 +79,11 @@ Developed a test data generator that generates small yet effective test data set
 [IST](http://www.journals.elsevier.com/information-and-software-technology), [SoSyM](http://www.sosym.org), [STVR](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1689/issues), [JSME](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481), [SQJ](http://link.springer.com/journal/11219), [LCN](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18402), [ICST 2017](http://aster.or.jp/conference/icst2017/index.html),
 [ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2017](https://sites.google.com/site/mutation2017), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FCS](http://www.springer.com/computer/journal/11704), [CLSS](http://www.journals.elsevier.com/computer-languages-systems-and-structures/)
 
-### Awards
+## Awards
 + Medidata Innovator Award Winner. Medidata. 2015.
 + Best Student Paper Award. The Testing: Academic and Industrial Conference - Practice and Research Techniques (TAIC PART 2012). 2012.
 
-### Tools
+## Tools
 + [Model-Based Test Generator](http://github.com/mdsol/skyfire)
 + [Graph Coverage Web Application](http://cs.gmu.edu:8080/offutt/coverage/GraphCoverage)
 + [Data Flow Coverage Web Application](http://cs.gmu.edu:8080/offutt/coverage/DFGraphCoverage1)
