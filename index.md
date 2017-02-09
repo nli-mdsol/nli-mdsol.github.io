@@ -6,7 +6,7 @@ Nan Li received PhD in Information Technology with concentration on software eng
 
 ### Projects at Medidata
 #### Mobile Testing
-Developing a test framework in Ruby for testing iOS and Android apps, using [Appium](https://github.com/appium/appium). Working on Xcode 8, XCUITest, uiautomator2, and Appium 1.6.0 now.
+Developing a test framework in Ruby for testing iOS and Android apps, using [Appium](https://github.com/appium/appium). Working on Xcode 8, XCUITest, uiautomator2, and Appium now.
 
 #### Reporting and Big Data Testing
 Developed programs and tests using Amazon Web Services (AWS) techniques for reporting and analytics.
@@ -54,6 +54,12 @@ Developed a test data generator that generates small yet effective test data set
 #### Code Coverage Tool Analysis
 + **Nan Li**, Xin Meng, Jeff Offutt, and Lin Deng. Is Bytecode Instrumentation as Good as Source Code Instrumentation: An Empirical Study With Industrial Tools (Experience Report). The 24th IEEE International Symposium on Software Reliability Engineering. Pasadena, CA, USA. November 2013.
 
+#### Fault Localization
++ Yun Guo, Amihai Motro, and **Nan Li**. Localizing Faults in SQL Predicates. IEEE 10th International Conference on Software Testing, Verification and Validation. Tokyo, Japan. March 2017. To Appear.
+
+#### Invariant-based Testing
++ Jordi Carres, **Nan Li**, and Charles Abbott. Roper: An Enterprise-level invariant-based testing tool for websites. IEEE 10th International Conference on Software Testing, Verification and Validation. Tokyo, Japan. March 2017. To Appear.
+
 #### Education on Software Testing 
 + Jeff Offutt, **Nan Li**, Paul Ammann and Wuzhi Xu. Using Abstraction and Web Applications to Teach Criteria-Based Test Design. 24th IEEE-CS Conference on Software Engineering Education and Training. Hawaii, USA. May 2011.
 
@@ -65,13 +71,13 @@ Developed a test data generator that generates small yet effective test data set
 [MUTATION 2017](https://sites.google.com/site/mutation2017)
 
 #### Program Committee Members
-[ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FSE 2016](https://www.cs.ucdavis.edu/fse2016/calls/industry-papers)
+[ICST 2017](http://aster.or.jp/conference/icst2017/organization/program_comm.html), [ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FSE 2016](https://www.cs.ucdavis.edu/fse2016/calls/industry-papers)
 
 #### Reviewers
 [CSUR](http://csur.acm.org), 
 [JSS](http://www.journals.elsevier.com/journal-of-systems-and-software)
-[IST](http://www.journals.elsevier.com/information-and-software-technology), [SoSyM](http://www.sosym.org), [STVR](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1689/issues), [SQJ](http://link.springer.com/journal/11219), [LCN](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18402), 
-[ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FCS](http://www.springer.com/computer/journal/11704), [CLSS](http://www.journals.elsevier.com/computer-languages-systems-and-structures/)
+[IST](http://www.journals.elsevier.com/information-and-software-technology), [SoSyM](http://www.sosym.org), [STVR](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1689/issues), [JSME](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481), [SQJ](http://link.springer.com/journal/11219), [LCN](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18402), [ICST 2017](http://aster.or.jp/conference/icst2017/index.html),
+[ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2017](https://sites.google.com/site/mutation2017), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FCS](http://www.springer.com/computer/journal/11704), [CLSS](http://www.journals.elsevier.com/computer-languages-systems-and-structures/)
 
 ### Awards
 + Medidata Innovator Award Winner. Medidata. 2015.
