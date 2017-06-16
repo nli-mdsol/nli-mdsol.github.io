@@ -5,7 +5,7 @@ Nan Li received PhD in Information Technology with concentration on software eng
 
 
 ## Projects at Medidata
-#### Mobile Testing
+#### Mobile Testing 
 Developing a test framework in Ruby for testing iOS and Android apps, using [Appium](https://github.com/appium/appium). Working on Xcode 8, XCUITest, uiautomator2, and Appium now.
 
 #### Reporting and Big Data Testing
