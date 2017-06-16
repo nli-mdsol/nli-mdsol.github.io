@@ -69,7 +69,8 @@ Developed a test data generator that generates small yet effective test data set
 [A Test Automation Language for Behavioral Models](https://developers.google.com/google-test-automation-conference/2014/presentations#Day1LightningTalk1). Google Test Automation Conference (GTAC). Kirkland, Washington, USA. October 2014.
 
 ## Professional Services
-####Organizers
+#### Organizers
+
 [MUTATION 2017](https://sites.google.com/site/mutation2017)
 
 #### Program Committee Members
