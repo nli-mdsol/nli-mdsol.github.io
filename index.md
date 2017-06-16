@@ -5,7 +5,8 @@ Nan Li received PhD in Information Technology with concentration on software eng
 
 
 ## Projects at Medidata
-#### Mobile Testing 
+#### Mobile Testing
+
 Developing a test framework in Ruby for testing iOS and Android apps, using [Appium](https://github.com/appium/appium). Working on Xcode 8, XCUITest, uiautomator2, and Appium now.
 
 #### Reporting and Big Data Testing
@@ -14,6 +15,7 @@ Developed a test data generator that generates small yet effective test data set
 
 ## Publications
 #### Big Data Testing
+
 + **Nan Li**, Yu Lei, Haider Khan, Jingshu Liu, and Yun Guo. Applying Combinatorial Test Data Generation to Big Data Applications. 31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016). Singapore, Singapore. September 2016. 
 
 + **Nan Li**, Anthony Escalona, Yun Guo, and Jeff Offutt. A Scalable Big Data Test Framework. IEEE 8th International Conference on Software Testing, Verification and Validation. Graz, Austria. April 2015.
@@ -67,7 +69,7 @@ Developed a test data generator that generates small yet effective test data set
 [A Test Automation Language for Behavioral Models](https://developers.google.com/google-test-automation-conference/2014/presentations#Day1LightningTalk1). Google Test Automation Conference (GTAC). Kirkland, Washington, USA. October 2014.
 
 ## Professional Services
-#### Organizers
+####Organizers
 [MUTATION 2017](https://sites.google.com/site/mutation2017)
 
 #### Program Committee Members
