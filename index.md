@@ -1,13 +1,16 @@
 ## Brief Bio
-Nan Li is a lead software engineer in test at [Medidata Solutions](http://www.mdsol.com). He is leading the research on [big data testing](http://techblog.mdsol.com/2015/05/15/generating-a-representative-data-set-from-big-data.html), model-based testing, mutation testing, test oracle, fault localization, mobile testing, and test automation. He is developing several big data, mobile, and other general-purpose testing tools. He is passionate about bridging the gap between academia and industry.
+Nan Li is a software engineer at [Medidata Solutions](http://www.mdsol.com), where he is currently developing iOS and Android apps for [Patient Cloud](https://www.mdsol.com/en/products/rave/ecoa-epro). He was a lead software engineer in test, leading the research on [big data testing](http://techblog.mdsol.com/2015/05/15/generating-a-representative-data-set-from-big-data.html), model-based testing, mutation testing, mobile testing, test automation, etc. He developed a few test frameworks.
 
 Nan Li received PhD in Information Technology with concentration on software engineering from [Volgenau School of Engineering](volgenau.gmu.edu) at [George Mason University](http://www.gmu.edu) in 2014. His advisor was [Dr. Jeff Offutt](http://cs.gmu.edu/~offutt). He received a B.E. in Software Engineering from [Beihang University](http://www.buaa.edu.cn) in 2006. 
 
 
 ## Projects at Medidata
-#### Mobile Testing
+#### Mobile Development
+Developing and testing [Android](https://play.google.com/store/apps/details?id=com.mdsol.naga&hl=en) and [iOS](https://itunes.apple.com/us/app/patient-cloud-epro/id554170114?mt=8) mobile apps with Kotlin, Java, Swift, C++, JNI, Objective C, etc.
 
-Developing a test framework in Ruby for testing iOS and Android apps, using [Appium](https://github.com/appium/appium). Working on Xcode 8, XCUITest, uiautomator2, and Appium now.
+
+#### Mobile Testing
+Developed a test framework in Ruby for testing iOS and Android apps, using [Appium](https://github.com/appium/appium). Working on Xcode 8, XCUITest, uiautomator2, and Appium.
 
 #### Reporting and Big Data Testing
 Developed programs and tests using Amazon Web Services (AWS) techniques for reporting and analytics.
@@ -21,7 +24,7 @@ Developed a test data generator that generates small yet effective test data set
 + **Nan Li**, Anthony Escalona, Yun Guo, and Jeff Offutt. A Scalable Big Data Test Framework. IEEE 8th International Conference on Software Testing, Verification and Validation. Graz, Austria. April 2015.
 
 #### Model-Based Testing
-+ **Nan Li** and Jeff Offutt. Test Oracle Strategies for Model-based Testing. IEEE Transactions on Software Engineering. To Appear.
++ **Nan Li** and Jeff Offutt. Test Oracle Strategies for Model-based Testing. IEEE Transaction on Software Engineering (TSE). 43(4): 372-395. April 2017.
 
 + **Nan Li**, Anthony Escalona, and Tariq Kamal. Model-Based Testing with Cucumber. IEEE 9th International Conference on Software Testing, Verification and Validation. Chicago, USA. April 2016.
 
@@ -56,11 +59,17 @@ Developed a test data generator that generates small yet effective test data set
 #### Code Coverage Tool Analysis
 + **Nan Li**, Xin Meng, Jeff Offutt, and Lin Deng. Is Bytecode Instrumentation as Good as Source Code Instrumentation: An Empirical Study With Industrial Tools (Experience Report). The 24th IEEE International Symposium on Software Reliability Engineering. Pasadena, CA, USA. November 2013.
 
-#### Fault Localization
-+ Yun Guo, Amihai Motro, and **Nan Li**. Localizing Faults in SQL Predicates. IEEE 10th International Conference on Software Testing, Verification and Validation. Tokyo, Japan. March 2017. To Appear.
+#### Fault Localization and Repair
++ Yun Guo, Amihai Motro, and **Nan Li**. Localizing Faults in SQL Predicates. IEEE 10th International Conferences on Software Testing, Verification and Validation (ICST). Tokyo, Japan. March 2017.
 
 #### Invariant-based Testing
-+ Jordi Carres, **Nan Li**, and Charles Abbott. Roper: An Enterprise-level invariant-based testing tool for websites. IEEE 10th International Conference on Software Testing, Verification and Validation. Tokyo, Japan. March 2017. To Appear.
++ Jordi Carres, **Nan Li**, and Charles Abbott. Roper: An Enterprise-level invariant-based testing tool for websites. IEEE 10th International Conference on Software Testing, Verification and Validation. Tokyo, Japan. March 2017.
+
+#### Safety-Critical System Testing
++ Chunfeng Hu, Jin Guo, Nan Li, Yao Li, Chang Rao, and Siqi Liu. Towards Effective and Scalable Testing for Complex High-Speed Railway Signal Software. The 2017 IEEE International Conference on Software Quality, Reliability and Security (QRS). Prague, Czech Republic. July 2017.
+
++ Chang Rao, Jin Guo, Nan Li, Yu Lei, YaDong Zhang, Yao Li, and YaXin Cao. Applying Combinatorial Testing to High-Speed Railway Track Circuit Receiver. 6th International Workshop on Combinatorial Testing (IWCT). Tokyo, Japan. March 2017.
+
 
 #### Education on Software Testing 
 + Jeff Offutt, **Nan Li**, Paul Ammann and Wuzhi Xu. Using Abstraction and Web Applications to Teach Criteria-Based Test Design. 24th IEEE-CS Conference on Software Engineering Education and Training. Hawaii, USA. May 2011.
@@ -71,12 +80,18 @@ Developed a test data generator that generates small yet effective test data set
 ## Professional Services
 #### Organizers
 
+[MUTATION 2018](https://mutation-workshop.github.io/)
+
 [MUTATION 2017](https://sites.google.com/site/mutation2017)
 
 #### Program Committee Members
-[ICST 2017](http://aster.or.jp/conference/icst2017/organization/program_comm.html), [ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FSE 2016](https://www.cs.ucdavis.edu/fse2016/calls/industry-papers)
+[ICST 2018](http://www.es.mdh.se/icst2018/organisation/#pcmembers), [ICST 2017](http://aster.or.jp/conference/icst2017/organization/program_comm.html), [ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FSE 2016](https://www.cs.ucdavis.edu/fse2016/calls/industry-papers)
+
+#### Journal Editor Service
+[STVR, Special Issue on Mutation Testing, and Analysis](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1689/issues)
 
 #### Reviewers
+[TSE](https://www.computer.org/web/tse),
 [CSUR](http://csur.acm.org), 
 [JSS](http://www.journals.elsevier.com/journal-of-systems-and-software)
 [IST](http://www.journals.elsevier.com/information-and-software-technology), [SoSyM](http://www.sosym.org), [STVR](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1689/issues), [JSME](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481), [SQJ](http://link.springer.com/journal/11219), [LCN](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18402), [ICST 2017](http://aster.or.jp/conference/icst2017/index.html),
