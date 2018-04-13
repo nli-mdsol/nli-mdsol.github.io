@@ -66,9 +66,9 @@ Developed a test data generator that generates small yet effective test data set
 + Jordi Carres, **Nan Li**, and Charles Abbott. Roper: An Enterprise-level invariant-based testing tool for websites. IEEE 10th International Conference on Software Testing, Verification and Validation. Tokyo, Japan. March 2017.
 
 #### Safety-Critical System Testing
-+ Chunfeng Hu, Jin Guo, Nan Li, Yao Li, Chang Rao, and Siqi Liu. Towards Effective and Scalable Testing for Complex High-Speed Railway Signal Software. The 2017 IEEE International Conference on Software Quality, Reliability and Security (QRS). Prague, Czech Republic. July 2017.
++ Chunfeng Hu, Jin Guo, **Nan Li**, Yao Li, Chang Rao, and Siqi Liu. Towards Effective and Scalable Testing for Complex High-Speed Railway Signal Software. The 2017 IEEE International Conference on Software Quality, Reliability and Security (QRS). Prague, Czech Republic. July 2017.
 
-+ Chang Rao, Jin Guo, Nan Li, Yu Lei, YaDong Zhang, Yao Li, and YaXin Cao. Applying Combinatorial Testing to High-Speed Railway Track Circuit Receiver. 6th International Workshop on Combinatorial Testing (IWCT). Tokyo, Japan. March 2017.
++ Chang Rao, Jin Guo, **Nan Li**, Yu Lei, YaDong Zhang, Yao Li, and YaXin Cao. Applying Combinatorial Testing to High-Speed Railway Track Circuit Receiver. 6th International Workshop on Combinatorial Testing (IWCT). Tokyo, Japan. March 2017.
 
 
 #### Education on Software Testing 
@@ -96,6 +96,11 @@ Developed a test data generator that generates small yet effective test data set
 [JSS](http://www.journals.elsevier.com/journal-of-systems-and-software)
 [IST](http://www.journals.elsevier.com/information-and-software-technology), [SoSyM](http://www.sosym.org), [STVR](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1689/issues), [JSME](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481), [SQJ](http://link.springer.com/journal/11219), [LCN](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18402), [ICST 2017](http://aster.or.jp/conference/icst2017/index.html),
 [ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2017](https://sites.google.com/site/mutation2017), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FCS](http://www.springer.com/computer/journal/11704), [CLSS](http://www.journals.elsevier.com/computer-languages-systems-and-structures/)
+
+## Patents
++ Nan Li and Anthony Escalona. System and Method for Generating an Effective Test Data Set for Testing Big Data Applications. Docket No. 20622.0066 CA (IDF-66 CA). Approved on February 7, 2018.
++ Nan Li and Anthony Escalona. System and Method for Generating an Effective Test Data Set for Testing Big Data Applications. Docket No. 20622.0066 US (IDF-66 US). Under the review.
+
 
 ## Awards
 + Medidata Innovator Award Winner. Medidata. 2015.
