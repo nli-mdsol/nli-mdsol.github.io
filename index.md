@@ -79,10 +79,7 @@ Developed a test data generator that generates small yet effective test data set
 
 ## Professional Services
 #### Organizers
-
-[MUTATION 2018](https://mutation-workshop.github.io/)
-
-[MUTATION 2017](https://sites.google.com/site/mutation2017)
+[MUTATION 2018](https://mutation-workshop.github.io/), [MUTATION 2017](https://sites.google.com/site/mutation2017)
 
 #### Program Committee Members
 [ICST 2018](http://www.es.mdh.se/icst2018/organisation/#pcmembers), [ICST 2017](http://aster.or.jp/conference/icst2017/organization/program_comm.html), [ICST 2016](https://www.cs.uic.edu/~icst2016/researchtrack.htm), [MUTATION 2016](https://sites.google.com/site/mutation2016/mutation-2016), [FSE 2016](https://www.cs.ucdavis.edu/fse2016/calls/industry-papers)
